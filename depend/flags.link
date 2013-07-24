@@ -1,0 +1,11 @@
+-g
+-O
+-fno-builtin-memcpy
+-Xlinker
+-s0
+-lconnection
+-lspp
+-lregion
+-lservice
+-lbdaddr
+vm

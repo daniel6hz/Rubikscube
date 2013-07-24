@@ -1,0 +1,19 @@
+spp_dev_init.o: spp_dev_init.c spp_dev_init.h spp_dev_private.h \
+  F:/BlueLab/tools/include/spp.h F:/BlueLab/tools/include/connection.h \
+  F:/BlueLab/tools/include/bdaddr_.h \
+  F:/BlueLab/tools/lib/gcc-lib/xap-local-xap/3.3.3/include/csrtypes.h \
+  F:/BlueLab/tools/include/message.h F:/BlueLab/tools/include/sink_.h \
+  F:/BlueLab/tools/include/message_.h \
+  F:/BlueLab/tools/include/app/message/system_message.h \
+  F:/BlueLab/tools/include/app/adc/adc_if.h \
+  F:/BlueLab/tools/include/source_.h \
+  F:/BlueLab/tools/include/app/status/status_if.h \
+  F:/BlueLab/tools/include/sink.h F:/BlueLab/tools/include/app/vm/vm_if.h \
+  F:/BlueLab/tools/include/stream.h F:/BlueLab/tools/include/transform_.h \
+  F:/BlueLab/tools/include/usb_.h \
+  F:/BlueLab/tools/include/app/hid/hid_if.h \
+  F:/BlueLab/tools/include/app/file/file_if.h \
+  F:/BlueLab/tools/include/app/uart/uart_if.h \
+  F:/BlueLab/tools/include/app/audio/audio_if.h \
+  F:/BlueLab/tools/include/app/audio/audio_notes.h \
+  F:/BlueLab/tools/include/panic.h spp_button.h

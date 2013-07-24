@@ -1,0 +1,15 @@
+-g
+-O
+-fno-builtin-memcpy
+-ansi
+-pedantic
+-Wall
+-Wmissing-prototypes
+-Wstrict-prototypes
+-Wsign-compare
+-Wredundant-decls
+-Werror
+-IF:/BlueLab/tools/include
+-Wp,-MD,./depend/
+-Wp,-MQ,dummy.force
+vm

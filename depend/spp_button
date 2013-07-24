@@ -1,0 +1,11 @@
+spp_button.o: spp_button.c spp_button.h \
+  F:/BlueLab/tools/include/message.h \
+  F:/BlueLab/tools/lib/gcc-lib/xap-local-xap/3.3.3/include/csrtypes.h \
+  F:/BlueLab/tools/include/sink_.h F:/BlueLab/tools/include/message_.h \
+  F:/BlueLab/tools/include/app/message/system_message.h \
+  F:/BlueLab/tools/include/app/adc/adc_if.h \
+  F:/BlueLab/tools/include/source_.h \
+  F:/BlueLab/tools/include/app/status/status_if.h \
+  F:/BlueLab/tools/include/pio.h F:/BlueLab/tools/include/panic.h \
+  F:/BlueLab/tools/include/ps.h F:/BlueLab/tools/include/app/ps/ps_if.h \
+  F:/BlueLab/tools/lib/gcc-lib/xap-local-xap/3.3.3/include/stdlib.h
